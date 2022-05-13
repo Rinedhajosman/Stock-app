@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "ilac": "Aspirin",
+    "adet": 25
+  },
+  {
+    "id": 2,
+    "ilac": "Diklofenak",
+    "adet": 6
+  },
+  {
+    "id": 3,
+    "ilac": "naproksen",
+    "adet": 7
+  },
+  {
+    "id": 4,
+    "ilac": "ketoprofen",
+    "adet": 8
+  },
+  {
+    "id": 5,
+    "ilac": "Parol",
+    "adet": 44
+  },
+  {
+    "id": 6,
+    "ilac": "nonsteroidal",
+    "adet": 10
+  }
+
+]
